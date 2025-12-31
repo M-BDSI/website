@@ -1,0 +1,191 @@
+{
+  "batches": [
+    {
+      "year": "2024-2026",
+      "coordinator": {
+        "name": "Pr. Mohamed EL FAR",
+        "role": "Professeur a la FSDM - Specialite Big Data & IA",
+        "image": "images/coordinators/coordinator-2024.jpg",
+        "linkedin": "https://ma.linkedin.com/in/mohamed-el-far-09414150",
+        "researchgate": "https://www.researchgate.net/profile/Mohamed-El-Far-2"
+      },
+      "students": [
+        {
+          "name": "Abdelhak Zaaim",
+          "image": "images/students/2024/student1.jpg",
+          "linkedin": "https://www.linkedin.com/in/abdelhak-zaaim/",
+          "github": "https://github.com/abdelhak-zaaim"
+        },
+        {
+          "name": "Abdelilah Bajjou",
+          "image": "images/students/2024/student2.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Aicha Boudrah",
+          "image": "images/students/2024/student3.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Ali Ech-Cherif Elkettani",
+          "image": "images/students/2024/student4.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Anas Mouada",
+          "image": "images/students/2024/student5.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Diawara Sekouba Lamine",
+          "image": "images/students/2024/student6.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Ghita Fri",
+          "image": "images/students/2024/student7.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Hajar El Mahjouby",
+          "image": "images/students/2024/student8.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Hanae Chafik",
+          "image": "images/students/2024/student9.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Hasnae Amara",
+          "image": "images/students/2024/student10.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Houssine El Bouti",
+          "image": "images/students/2024/student11.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Ibtissame El Ammary",
+          "image": "images/students/2024/student12.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Ismail El Ouazzani",
+          "image": "images/students/2024/student13.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Jalal Zerroudi",
+          "image": "images/students/2024/student14.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Kaouthar Elyoussoufi",
+          "image": "images/students/2024/student15.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Kenza El Makhchouni",
+          "image": "images/students/2024/student16.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Marouan Snaoui",
+          "image": "images/students/2024/student17.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Mustapha Ben-Cheikh",
+          "image": "images/students/2024/student18.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Nadya Rasse",
+          "image": "images/students/2024/student19.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Othmane Hana",
+          "image": "images/students/2024/student20.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Oussama Ghaouti",
+          "image": "images/students/2024/student21.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Safae Tamimi",
+          "image": "images/students/2024/student22.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Sanae Boulagouaz",
+          "image": "images/students/2024/student23.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Shaimae Kharbouch",
+          "image": "images/students/2024/student24.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Soumeya Faizal Ali",
+          "image": "images/students/2024/student25.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Wissal Charkaoui",
+          "image": "images/students/2024/student26.jpg",
+          "linkedin": "#",
+          "github": "#"
+        },
+        {
+          "name": "Yassine El Alami",
+          "image": "images/students/2024/student27.jpg",
+          "linkedin": "#",
+          "github": "#"
+        }
+      ]
+    },
+    {
+      "year": "2025-2027",
+      "coordinator": {
+        "name": "Pr. Coordinateur 2023",
+        "role": "Professeur a la FSDM - Specialite Big Data & IA",
+        "image": "images/coordinators/coordinator-2023.jpg",
+        "linkedin": "#",
+        "researchgate": "#"
+      },
+      "students": [
+
+      ]
+    }
+  ]
+}
