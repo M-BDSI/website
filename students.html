@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Découvrez les étudiants du Master BDSI - Big Data et Systèmes Intelligents à la FSDM Fès, organisés par promotion.">
+    <meta name="keywords" content="BDSI, Étudiants, Master, FSDM, Fès, Big Data, Data Science">
+    <title>Nos Étudiants | Master BDSI - FSDM Fès</title>
+
+    <link rel="icon" type="image/png" href="images/logo-transparent.png">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <nav class="nav">
+                <a href="index.html" class="nav__logo">
+                    <div class="nav__logo-img">
+                        <img src="images/logo-transparent.png">
+                    </div>
+                    <div class="nav__logo-text">
+                        Master BDSI
+                        <span>FSDM - Université Sidi Mohamed Ben Abdellah</span>
+                    </div>
+                </a>
+
+                <div class="nav__menu">
+                    <a href="index.html" class="nav__link">Accueil</a>
+                    <a href="formation.html" class="nav__link">Formation</a>
+                    <a href="students.html" class="nav__link active">Étudiants</a>
+                    <a href="index.html#contact" class="nav__link">Contact</a>
+                </div>
+
+                <div class="nav__toggle">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Page Header -->
+    <section class="page-header moroccan-pattern">
+        <div class="container">
+            <h1 class="page-header__title">Nos Étudiants</h1>
+            <p class="page-header__subtitle">
+                Découvrez les talents qui font la fierté du Master BDSI
+            </p>
+            <div class="page-header__breadcrumb">
+                <a href="index.html">Accueil</a>
+                <span>›</span>
+                <span>Étudiants</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- Filter Tabs -->
+    <section class="section" style="padding-bottom: 0;">
+        <div class="container">
+            <div class="students-intro animate">
+                <p>
+                    Le Master BDSI forme chaque année une nouvelle génération d'experts en Big Data et Intelligence Artificielle.
+                    Découvrez nos promotions et les futurs leaders de la transformation digitale.
+                </p>
+            </div>
+            <div class="tabs">
+                <!-- Tabs will be populated dynamically -->
+                <button class="tab active" data-batch="all">Toutes les Promotions</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Students Sections by Batch - Dynamic Content -->
+    <section class="section students-section">
+        <div class="container" id="students-container">
+            <!-- Loading State -->
+            <div class="loading-state" style="text-align: center; padding: 4rem 2rem;">
+                <div class="loading-spinner"></div>
+                <p style="color: #666; margin-top: 1rem;">Chargement des données...</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer moroccan-pattern">
+        <div class="container">
+            <div class="footer__grid">
+                <div class="footer__column footer__column--main">
+                    <div class="footer__logo">
+                        <div class="footer__logo-icon">
+                            <img src="images/logo-blanc.png" alt="" style="border-radius: var(--radius-lg); display: block; width: 100%; height: auto;">
+                        </div>
+                        <div class="footer__logo-text">
+                            <strong>Master BDSI</strong>
+                            <small>Big Data & Intelligent Systems</small>
+                        </div>
+                    </div>
+                    <p class="footer__description">
+                        Formation d'excellence en science des données et intelligence artificielle
+                        à la Faculté des Sciences Dhar El Mahraz, Fès.
+                    </p>
+                </div>
+
+                <div class="footer__column">
+                    <h4 class="footer__title">Navigation</h4>
+                    <div class="footer__links">
+                        <a href="index.html" class="footer__link">Accueil</a>
+                        <a href="formation.html" class="footer__link">Formation</a>
+                        <a href="students.html" class="footer__link">Étudiants</a>
+                    </div>
+                </div>
+
+                <div class="footer__column">
+                    <h4 class="footer__title">Formation</h4>
+                    <div class="footer__links">
+                        <a href="formation.html#s1" class="footer__link">Semestre 1</a>
+                        <a href="formation.html#s2" class="footer__link">Semestre 2</a>
+                        <a href="formation.html#s3" class="footer__link">Semestre 3</a>
+                        <a href="formation.html#s4" class="footer__link">Semestre 4</a>
+                    </div>
+                </div>
+
+                <div class="footer__column">
+                    <h4 class="footer__title">Contact</h4>
+                    <div class="footer__links">
+                        <span class="footer__link">FSDM - Université USMBA</span>
+                        <span class="footer__link">Dhar El Mahraz, Fès</span>
+                        <span class="footer__link">Maroc</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer__bottom">
+                <p class="footer__copyright">
+                    © 2025 Master BDSI - FSDM Fès. Tous droits réservés.
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="js/main.js"></script>
+    <script src="js/animations.js"></script>
+    <script src="js/students.js"></script>
+</body>
+</html>
